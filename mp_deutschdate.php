@@ -39,5 +39,3 @@ add_filter('the_modified_time', 'multipop_de_date_replace');
 add_filter('the_modified_date', 'multipop_de_date_replace');
 add_filter('get_the_modified_time', 'multipop_de_date_replace');
 add_filter('get_the_modified_date', 'multipop_de_date_replace');
-
-?>
