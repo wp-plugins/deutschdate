@@ -1,5 +1,5 @@
 === DeutschDate ===
-Contributors: mendezki
+Contributors: mendezki, MacSteini
 Tags: german, deutsch, english, date, translate
 Requires at least: 1.5
 Tested up to: 2.5
