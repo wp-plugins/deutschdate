@@ -3,7 +3,7 @@
 Plugin Name: DeutschDate
 Plugin URI: http://multipop.org/deutschdate
 Description: Automagically converts english months and days (except for the initials) to their German equivalent.
-Version: 1.0
+Version: 1.1
 Author: Barry Ceelen
 Author URI: http://multipop.org
 
@@ -32,5 +32,12 @@ function multipop_de_date_replace($text) {
 }
 
 add_filter('the_time', 'multipop_de_date_replace');
-	
+add_filter('the_date', 'multipop_de_date_replace');
+add_filter('get_the_time', 'multipop_de_date_replace');
+add_filter('get_the_date', 'multipop_de_date_replace');
+add_filter('the_modified_time', 'multipop_de_date_replace');
+add_filter('the_modified_date', 'multipop_de_date_replace');
+add_filter('get_the_modified_time', 'multipop_de_date_replace');
+add_filter('get_the_modified_date', 'multipop_de_date_replace');
+
 ?>

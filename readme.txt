@@ -33,3 +33,7 @@ For the Dutch version of this plugin, visit the [Dutchdate Plugin Page](http://w
 1. Copy the mp_deutschdate.php file to your Wordpress plugin directory.
 1. Activate the plugin via the 'Plugins' menu in your WordPress admin.
 1. Und los geht's.
+
+== Changelog ==
+
+* 1.1 Added more filters as [suggested](http://wordpress.org/support/topic/plugin-broken-due-to-non-use-of-relevant-filters) by [Marco Steinbrecher](http://wordpress.org/support/profile/macsteini)
