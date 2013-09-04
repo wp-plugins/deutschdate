@@ -2,7 +2,7 @@
 Contributors: mendezki, MacSteini
 Tags: german, deutsch, english, date, translate
 Requires at least: 1.5
-Tested up to: 2.5
+Tested up to: 3.6
 Stable tag: trunk
 
 Replaces english day and month names with their german equivalent
@@ -36,4 +36,5 @@ For the Dutch version of this plugin, visit the [Dutchdate Plugin Page](http://w
 
 == Changelog ==
 
+* 1.2 Added missing translation for december, thanks [netigate](http://wordpress.org/support/topic/december-missing-translation)
 * 1.1 Added more filters as [suggested](http://wordpress.org/support/topic/plugin-broken-due-to-non-use-of-relevant-filters) by [Marco Steinbrecher](http://wordpress.org/support/profile/macsteini)
