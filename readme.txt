@@ -9,6 +9,8 @@ Replaces english day and month names with their german equivalent
 
 == Description ==
 
+**Note:** This plugin was intended as a quick fix for displaying various english dates in german. It unfortunately does not fully cover all date displays.
+
 Using an english Wordpress install and publishing posts in german? Those pesky English dates produced by `<?php the_time(); ?>` were getting on my nerves too, hence this plugin. Automagically converts english months and days (except for the initials, so far) to their german equivalent.
 
 **Intended usage:**
@@ -36,5 +38,6 @@ For the Dutch version of this plugin, visit the [Dutchdate Plugin Page](http://w
 
 == Changelog ==
 
-* 1.2 Added missing translation for december, thanks [netigate](http://wordpress.org/support/topic/december-missing-translation)
+* 1.3 Fixes March tranlsation
+* 1.2 Added missing translation for December, thanks [netigate](http://wordpress.org/support/topic/december-missing-translation)
 * 1.1 Added more filters as [suggested](http://wordpress.org/support/topic/plugin-broken-due-to-non-use-of-relevant-filters) by [Marco Steinbrecher](http://wordpress.org/support/profile/macsteini)
