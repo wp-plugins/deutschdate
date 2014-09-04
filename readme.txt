@@ -1,9 +1,13 @@
-=== DeutschDate ===
+=== DutchDate ===
 Contributors: mendezki, MacSteini
-Tags: german, deutsch, english, date, translate
-Requires at least: 1.5
-Tested up to: 3.6
-Stable tag: trunk
+Donate link: https://flattr.com/thing/1174660/MacSteini
+Tags: Deutsch, English, Date, Translate
+Requires at least: 1.5.1
+Tested up to: 4.0
+Compatible up to: 4.0
+Stable tag: 1.3
+License: GPLv2 or later
+License URI: http://gnu.org/licenses/gpl-2.0.html
 
 Replaces english day and month names with their german equivalent
 
